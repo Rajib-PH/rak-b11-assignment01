@@ -12,7 +12,6 @@ header{
     justify-content: space-between;
     align-items: center;
     background-color: #C6E4D6;
-    margin: 80px 200px;
     border-radius: 15px;
     padding: 0 20px 0 40px;
 }
@@ -29,8 +28,8 @@ header{
     color: slategrey;
 }
 
-.image {
+/* .image {
     margin-top: 50px;
     margin-bottom: 70px;
     margin-right: 50px;
-}
+} */
