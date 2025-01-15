@@ -13,14 +13,14 @@ header{
     align-items: center;
     background-color: #C6E4D6;
     border-radius: 15px;
-    padding: 0 20px 0 40px;
+    /* padding: 0 20px 0 40px; */
 }
 
 .btn {
     background-color: #006A50;
     font-weight: 600px;
     color: white;
-    padding: 12px 25px;
+    /* padding: 12px 25px; */
     font-size: 15px;
     border-radius: 7px;
 }
