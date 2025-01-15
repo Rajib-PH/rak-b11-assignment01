@@ -12,9 +12,9 @@ header{
     justify-content: space-between;
     align-items: center;
     background-color: #C6E4D6;
-    margin: 80px 300px;
+    margin: 80px 400px;
     border-radius: 15px;
-    padding: 0 20px 0 20px;
+    padding: 0 20px 0 40px;
 }
 
 .btn {
@@ -28,6 +28,9 @@ header{
 .title {
     color: slategrey;
 }
-.common {
-    padding-right: 100px;
+
+.image {
+    margin-top: 50px;
+    margin-bottom: 70px;
+    margin-right: 70px;
 }
