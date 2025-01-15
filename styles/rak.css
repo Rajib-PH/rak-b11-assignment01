@@ -1,0 +1,12 @@
+
+
+.fira-sans-regular {
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+/* header style */
+header{
+    display: flex;
+}
