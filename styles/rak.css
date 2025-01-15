@@ -9,4 +9,25 @@
 /* header style */
 header{
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #C6E4D6;
+    margin: 80px 300px;
+    border-radius: 15px;
+    padding: 0 20px 0 20px;
+}
+
+.btn {
+    background-color: #006A50;
+    font-weight: 600px;
+    color: white;
+    padding: 12px 25px;
+    font-size: 15px;
+    border-radius: 7px;
+}
+.title {
+    color: slategrey;
+}
+.common {
+    padding-right: 100px;
 }
