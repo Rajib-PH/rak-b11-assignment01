@@ -169,4 +169,24 @@ header{
     justify-content: space-between;
     align-content: center;
  }
- 
+ .head-title{
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+    text-align: center;
+ }
+ .main-bg {
+    background-color: #FFFFFF;
+ }
+ .bd-info{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+ }
+ .donate-bd{
+    background-color: #FFFFFF;
+    margin: 75px 200px;
+    padding-left: 15px;
+    padding-right: 45px; 
+    box-shadow: #F7EBCF;
+ }
