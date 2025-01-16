@@ -6,6 +6,12 @@
     font-style: normal;
   }
 
+  .banner {
+    margin-top: 40px;
+    margin-left: 220px;
+    /* margin-bottom: 25px; */
+  }
+
 /* header style */
 header{
     display: flex;
@@ -13,24 +19,24 @@ header{
     align-items: center;
     background-color: #C6E4D6;
     border-radius: 15px;
-    margin: 50px 200px;
-    /* padding: 0 20px 0 40px; */
+    margin: 15px 200px;
+    padding: 0 20px 0 40px;
 }
 
 .btn {
     background-color: #006A50;
     font-weight: 600px;
     color: white;
-    /* padding: 12px 25px; */
-    font-size: 15px;
+    padding: 12px 25px;
+    font-size: 10px;
     border-radius: 7px;
 }
 .title {
     color: slategrey;
 }
 
-/* .image {
+.image {
     margin-top: 50px;
     margin-bottom: 70px;
     margin-right: 50px;
-} */
+}
