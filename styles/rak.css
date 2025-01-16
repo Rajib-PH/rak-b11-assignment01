@@ -190,3 +190,21 @@ header{
     padding-right: 45px; 
     box-shadow: #F7EBCF;
  }
+
+ /* Final section */
+
+ nav ul{
+    display: flex;
+ }
+ nav ul li{
+    list-style: none;
+    margin-right: 24px;
+    justify-content: space-between;
+    align-items: center;
+ }
+ nav li a{
+    text-decoration: none;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+ }
